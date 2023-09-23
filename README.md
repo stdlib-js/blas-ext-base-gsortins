@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import gsortins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsortins@esm/index.mjs';
+import gsortins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsortins@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsortins@esm/index.mjs';
+import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsortins@v0.1.0-esm/index.mjs';
 ```
 
 #### gsortins( N, order, x, stride )
@@ -159,7 +159,7 @@ gsortins.ndarray( 3, 1.0, x, 1, x.length-3 );
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import gsortins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsortins@esm/index.mjs';
+import gsortins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsortins@v0.1.0-esm/index.mjs';
 
 var rand;
 var sign;
