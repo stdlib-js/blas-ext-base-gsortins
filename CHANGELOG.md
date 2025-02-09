@@ -2,6 +2,51 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-02-09)
+
+<section class="features">
+
+### Features
+
+-   [`d226d10`](https://github.com/stdlib-js/stdlib/commit/d226d10e5119e4480721039ce892da8ae874e468) - add accessor arrays support and refactor `blas/ext/base/gsortins` [(#5120)](https://github.com/stdlib-js/stdlib/pull/5120)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`d226d10`](https://github.com/stdlib-js/stdlib/commit/d226d10e5119e4480721039ce892da8ae874e468) - **feat:** add accessor arrays support and refactor `blas/ext/base/gsortins` [(#5120)](https://github.com/stdlib-js/stdlib/pull/5120) _(by Muhammad Haris, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Muhammad Haris
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
