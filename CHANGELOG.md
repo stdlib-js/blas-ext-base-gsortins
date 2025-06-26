@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-06-26)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`721033e`](https://github.com/stdlib-js/stdlib/commit/721033eede9b3a4667728f40695d933f49f541c1) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`d226d10`](https://github.com/stdlib-js/stdlib/commit/d226d10e5119e4480721039ce892da8ae874e468) - **feat:** add accessor arrays support and refactor `blas/ext/base/gsortins` [(#5120)](https://github.com/stdlib-js/stdlib/pull/5120) _(by Muhammad Haris, Athan Reines)_
 
 </details>
@@ -34,10 +35,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
+-   Philipp Burckhardt
 
 </section>
 
